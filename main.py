@@ -2,7 +2,7 @@ import tkinter as tk
 import openai
 
 # Set up your OpenAI API key
-api_key = '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'
+api_key = 'Get API from OPEN AI'
 openai.api_key = api_key  # Set the API key
 
 # Create a function to get a chatbot response
